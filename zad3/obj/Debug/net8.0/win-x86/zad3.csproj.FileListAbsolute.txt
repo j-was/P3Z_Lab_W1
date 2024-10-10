@@ -1,0 +1,14 @@
+C:\polibuda\w1-p3\zad3\bin\Debug\net8.0\win-x86\zad3.exe
+C:\polibuda\w1-p3\zad3\bin\Debug\net8.0\win-x86\zad3.deps.json
+C:\polibuda\w1-p3\zad3\bin\Debug\net8.0\win-x86\zad3.runtimeconfig.json
+C:\polibuda\w1-p3\zad3\bin\Debug\net8.0\win-x86\zad3.dll
+C:\polibuda\w1-p3\zad3\bin\Debug\net8.0\win-x86\zad3.pdb
+C:\polibuda\w1-p3\zad3\obj\Debug\net8.0\win-x86\zad3.GeneratedMSBuildEditorConfig.editorconfig
+C:\polibuda\w1-p3\zad3\obj\Debug\net8.0\win-x86\zad3.AssemblyInfoInputs.cache
+C:\polibuda\w1-p3\zad3\obj\Debug\net8.0\win-x86\zad3.AssemblyInfo.cs
+C:\polibuda\w1-p3\zad3\obj\Debug\net8.0\win-x86\zad3.csproj.CoreCompileInputs.cache
+C:\polibuda\w1-p3\zad3\obj\Debug\net8.0\win-x86\zad3.dll
+C:\polibuda\w1-p3\zad3\obj\Debug\net8.0\win-x86\refint\zad3.dll
+C:\polibuda\w1-p3\zad3\obj\Debug\net8.0\win-x86\zad3.pdb
+C:\polibuda\w1-p3\zad3\obj\Debug\net8.0\win-x86\zad3.genruntimeconfig.cache
+C:\polibuda\w1-p3\zad3\obj\Debug\net8.0\win-x86\ref\zad3.dll
