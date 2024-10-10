@@ -1,0 +1,11 @@
+C:\polibuda\w1-p3\zad4\myClassLibrary\bin\Debug\net8.0\myClassLibrary.deps.json
+C:\polibuda\w1-p3\zad4\myClassLibrary\bin\Debug\net8.0\myClassLibrary.dll
+C:\polibuda\w1-p3\zad4\myClassLibrary\bin\Debug\net8.0\myClassLibrary.pdb
+C:\polibuda\w1-p3\zad4\myClassLibrary\obj\Debug\net8.0\myClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\polibuda\w1-p3\zad4\myClassLibrary\obj\Debug\net8.0\myClassLibrary.AssemblyInfoInputs.cache
+C:\polibuda\w1-p3\zad4\myClassLibrary\obj\Debug\net8.0\myClassLibrary.AssemblyInfo.cs
+C:\polibuda\w1-p3\zad4\myClassLibrary\obj\Debug\net8.0\myClassLibrary.csproj.CoreCompileInputs.cache
+C:\polibuda\w1-p3\zad4\myClassLibrary\obj\Debug\net8.0\myClassLibrary.dll
+C:\polibuda\w1-p3\zad4\myClassLibrary\obj\Debug\net8.0\refint\myClassLibrary.dll
+C:\polibuda\w1-p3\zad4\myClassLibrary\obj\Debug\net8.0\myClassLibrary.pdb
+C:\polibuda\w1-p3\zad4\myClassLibrary\obj\Debug\net8.0\ref\myClassLibrary.dll
